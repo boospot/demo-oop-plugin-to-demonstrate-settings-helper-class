@@ -1,0 +1,1 @@
+# demo-oop-plugin-to-demonstrate-settings-helper-class
